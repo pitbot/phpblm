@@ -1,4 +1,6 @@
-# phpblm - major fun with Rightmove BLM files
+# phpblm
+
+*Major fun with Rightmove BLM files*
 
 Really old PHP class for parsing out Rightmove BLM files. Will try and clean up a bit at some point. There was also some stuff to process zips and the images that I might be able to knock into some kind of shape.
 
