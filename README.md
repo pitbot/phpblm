@@ -7,6 +7,8 @@ Really old PHP class for parsing out Rightmove BLM files. Will try and clean up 
 ## Usage
 
 ```php
+require 'phpblm.php';
+
 $blm = new phpblm("test.BLM");
 
 // Property count
